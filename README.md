@@ -11,14 +11,17 @@ As you change chords, the rh notes are filtered so you always play good sounding
 
 ## Subscriptions
 
-- You can subscribe to the app for $2/month to get access to more than three chords per project.  
+You can subscribe to the app for $2/month to get access to more than three chords per project.  
 <!-- A discounted rate of $20/year will also be available soon. -->
 
 To upgrade, simply log into your free ChordJammer account and click the "Upgrade" button.
 
 ![Screenshot](doco/screenshot3-upgrade.png)
 
-You will be taken to a secure Stripe payment page where you can enter your credit card details or use other payment methods.  You can cancel at any time using the account settings page.
+You will be taken to a secure Stripe payment page where you can enter your credit card details or use other payment methods.  
+
+### Cancelling your subscription
+You can cancel at any time using the *Account Settings* page.
 
 ![Screenshot](doco/screenshot4-account-settings.png)
 
